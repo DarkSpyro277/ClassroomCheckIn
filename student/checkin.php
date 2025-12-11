@@ -124,7 +124,7 @@ if (!$enrolled->fetch()) {
         <div style="margin-top:12px;display:flex;align-items:center;gap:12px;">
             <button id="checkinBtn">Check In</button>
             <div class="pill">
-                ✅ This will mark you as <strong>Present</strong> for this session.
+                 This will mark you as <strong>Present</strong> for this session.
             </div>
         </div>
 
